@@ -33,15 +33,15 @@ Applied Filters to all the columns using the headers as the reference. Performed
 
 Note: Filter hides the data which does not meet the condition It does not delete the data.
 
-### Results and Findings
+### 5. Results and Findings
 
 As of now there is more cleaning required where we found an duplicate entry and one missing data in one cell. we need to Investigate further how the duplicate entry was done and why one cell is empty or Missing.
 
-### Data Quality Observations
+### 6. Data Quality Observations
 
 We have one transaction with the one duplicate transaction where only the Id was duplicate and rest are different we need to find from where that was occured. One cell is marked as Missing we need to find why that was missing.
 
-### Business Insights
+### 7. Business Insights
 
 As per current data 
 - Electronics Category is generating the Max Revenue even if the sales quantity are less.
@@ -49,7 +49,7 @@ As per current data
 - Furniture Category is in the middle with Medium Revenue and quantity of sales is also medium.
 - Total Number of sales are 12 along with one duplicate and one missing record.
 
-### Learning Outcomes
+### 8. Learning Outcomes
 
 Outcomes are understood how to sort the data, filter the data, inspect the data and provide the business insights which helps track the business manage the Inventory and much more.
 Major things to be noted select all the dataset while sorting and filter does not deletes the data it hides the data temporarily, and how to inspect the data manually by checking the duplicates and any missing data.
