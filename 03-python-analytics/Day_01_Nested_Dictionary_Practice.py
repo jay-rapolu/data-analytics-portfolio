@@ -6,6 +6,14 @@ sales = {
     "Mouse": {
         "quantity": 5,
         "price": 500
+    },
+    "Monitor": {
+        "quantity": 2,
+        "price": 12000
+    }
+    "keyboard": {
+        "quantity": 3,
+        "price": 1200
     }
 }
 
